@@ -1,0 +1,6 @@
+{
+  "name": "Fryzjer Polski - Grzegorz Lewko Kraków",
+  "description": "Oficjalna strona legendarnego salonu fryzjerskiego i barbershopu Grzegorza Lewko przy ul. Karmelickiej 25 w Krakowie. Tradycja mistrzowskiego strzyżenia od 1963 roku, cennik, galeria oraz rezerwacja wizyt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
